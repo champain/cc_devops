@@ -1,2 +1,9 @@
 # Python OPS!
-With Chaima
+With Codecampe
+
+
+## Setup
+```
+chmod +x setup.sh
+./setup.sh
+```
